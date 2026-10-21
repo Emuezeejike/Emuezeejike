@@ -18,7 +18,7 @@ I enjoy solving real-world problems through technology, learning new tools, and 
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 ### Languages
 
@@ -62,7 +62,7 @@ I enjoy solving real-world problems through technology, learning new tools, and 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. TechCodra Learning Management System (LMS)
 
@@ -105,7 +105,7 @@ A Shoe Brand application built to provide users with an interactive interface fo
 
 **What I Learned:** Frontend-backend communication, environment configuration, database integration, and production debugging.
 
-🔗 **Repository:** (https://github.com/Emuezeejike/e-commerceDaVinGee.git)
+**Repository:** (https://github.com/Emuezeejike/e-commerceDaVinGee.git)
 
 ---
 
@@ -148,11 +148,11 @@ The project focuses on supporting the student journey from discovering accommoda
 
 **Development Focus:** Creating a practical student-focused interface that supports accommodation discovery and decision-making.
 
-🔗 **Repository:** (https://github.com/Emuezeejike/Hostel-Finder-App.git))
+**Repository:** (https://github.com/Emuezeejike/Hostel-Finder-App.git))
 
 ---
 
-## 📈 What I'm Working Towards
+## What I'm Working Towards
 
 I'm focused on becoming a stronger software developer by:
 
@@ -167,15 +167,15 @@ I believe the best way to learn software development is to build, experiment, so
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm open to connecting with developers, collaborating on projects, learning from experienced engineers, and exploring new job opportunities.
 
-* 💼 **LinkedIn:** (linkedin.com/in/ejikeemueze)
-* 🐙 **GitHub:** (https://github.com/emuezeejike)
-* 🌐 **Portfolio:** (https://ejikeemuezeportfolio.netlify.app/).
-* 📧 **Email:** emuezeejike@gmail.com.
+*  **LinkedIn:** (linkedin.com/in/ejikeemueze)
+*  **GitHub:** (https://github.com/emuezeejike)
+*  **Portfolio:** (https://ejikeemuezeportfolio.netlify.app/).
+*  **Email:** emuezeejike@gmail.com.
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue building and learning.*
+*Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue building and learning.*
