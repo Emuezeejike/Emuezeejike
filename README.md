@@ -148,7 +148,7 @@ The project focuses on supporting the student journey from discovering accommoda
 
 **Development Focus:** Creating a practical student-focused interface that supports accommodation discovery and decision-making.
 
-**Repository:** (https://github.com/Emuezeejike/Hostel-Finder-App.git))
+**Repository:** (https://github.com/Emuezeejike/Hostel-Finder-App.git)
 
 ---
 
@@ -171,7 +171,7 @@ I believe the best way to learn software development is to build, experiment, so
 
 I'm open to connecting with developers, collaborating on projects, learning from experienced engineers, and exploring new job opportunities.
 
-*  **LinkedIn:** (linkedin.com/in/ejikeemueze)
+*  **LinkedIn:** (https://linkedin.com/in/ejikeemueze)
 *  **GitHub:** (https://github.com/emuezeejike)
 *  **Portfolio:** (https://ejikeemuezeportfolio.netlify.app/).
 *  **Email:** emuezeejike@gmail.com.
