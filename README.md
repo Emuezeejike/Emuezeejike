@@ -87,11 +87,11 @@ A learning management platform designed to support students, teachers, and admin
 
 ---
 
-### 2. Shoe E-Commerce Application
+### 2. Shoe Brand E-Commerce Application
 
 **Tech Stack:** React.js, JavaScript, Vite, Tailwind CSS, Node.js, Express.js, MongoDB
 
-A shoe application built to provide users with an interactive interface for exploring shoe products and accessing application features.
+A Shoe Brand application built to provide users with an interactive interface for exploring shoe products and accessing application features.
 
 **Key Features & Contributions:**
 
@@ -105,7 +105,7 @@ A shoe application built to provide users with an interactive interface for expl
 
 **What I Learned:** Frontend-backend communication, environment configuration, database integration, and production debugging.
 
-🔗 **Repository:** (https://github.com/YOUR-GITHUB-USERNAME/REPOSITORY-NAME)
+🔗 **Repository:** (https://github.com/Emuezeejike/e-commerceDaVinGee.git)
 
 ---
 
@@ -148,7 +148,7 @@ The project focuses on supporting the student journey from discovering accommoda
 
 **Development Focus:** Creating a practical student-focused interface that supports accommodation discovery and decision-making.
 
-🔗 **Repository:** (https://github.com/YOUR-GITHUB-USERNAME/REPOSITORY-NAME)
+🔗 **Repository:** (https://github.com/Emuezeejike/Hostel-Finder-App.git))
 
 ---
 
@@ -174,7 +174,7 @@ I'm open to connecting with developers, collaborating on projects, learning from
 * 💼 **LinkedIn:** (linkedin.com/in/ejikeemueze)
 * 🐙 **GitHub:** (https://github.com/emuezeejike)
 * 🌐 **Portfolio:** (https://ejikeemuezeportfolio.netlify.app/).
-* 📧 **Email:** Add your preferred professional email address.
+* 📧 **Email:** emuezeejike@gmail.com.
 
 ---
 
